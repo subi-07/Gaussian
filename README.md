@@ -48,7 +48,7 @@ for i in range(n):
 
 ## Output:
 ![gaussian elimination]()
-![alt text](<maths ex 6.jpg>)
+![alt text](<maths ex 6-1.jpg>)
 
 
 ## Result:
